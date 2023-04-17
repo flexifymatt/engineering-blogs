@@ -93,6 +93,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Flickr](https://code.flickr.net/)                                             | Code.flickr.com.                                        |
 | [Flipboard](http://engineering.flipboard.com/)                                 | Flipboard Engineering.                                  |
 | [Flipkart](https://tech.flipkart.com/)                                    	 | Flipkart Engineering.                                   |
+| [Flexify](https://flexify.co.uk/blog)                                  	       | Flexify Blog                                            |
 | [Fluidinfo](http://blogs.fluidinfo.com/)                                       | Fluidinfo Blog.                                         |
 | [FourSquare](https://engineering.foursquare.com/)                              | Foursquare Engineering Blog.                            |
 | [Freshworks Inc.](https://medium.com/freshworks-engineering-blog)              | The Freshworks Engineering Blog – Medium                |
